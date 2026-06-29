@@ -1,4 +1,4 @@
-## Micro-Blogging Web Application
+# Micro-Blogging Web Application
 
 A very simple, beginner-friendly RESTful API based Micro-Blogging web application suitable for lab demonstrations. 
 
